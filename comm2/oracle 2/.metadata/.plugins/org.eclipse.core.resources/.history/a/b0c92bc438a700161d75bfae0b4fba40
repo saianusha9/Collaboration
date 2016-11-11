@@ -1,0 +1,20 @@
+
+package com.collaborativeportal.service;
+
+import java.util.List;
+
+import com.collaborativeportal.model.User; 
+
+
+public interface UserdetailService {
+ public int insertRow(User user);
+
+ public List getList();
+
+ public User getRowById(int usid);
+
+ public int updateRow(User user);
+
+ public int deleteRow(int usid);
+
+}

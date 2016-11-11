@@ -1,0 +1,5 @@
+package com.collaborativeportal.controller;
+
+public class UserdetailController {
+
+}
