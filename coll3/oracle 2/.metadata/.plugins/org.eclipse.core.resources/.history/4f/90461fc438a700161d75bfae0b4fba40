@@ -1,0 +1,20 @@
+
+package com.collaborativeportal.dao;
+
+import java.util.List;
+
+import com.collaborativeportal.model.User; 
+
+
+public interface UserdetailDao {
+ public int insertRow(User user);
+
+ public List getList();
+
+ public User getRowById(int usid);
+
+ public int updateRow(User user);
+
+ public int deleteRow(int usid);
+
+}
