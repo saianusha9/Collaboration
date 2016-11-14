@@ -1,0 +1,5 @@
+package com.collaborativeportal.service;
+
+public class UserdetailService {
+
+}

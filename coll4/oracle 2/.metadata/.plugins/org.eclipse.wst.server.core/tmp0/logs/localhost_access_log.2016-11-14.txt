@@ -1,0 +1,13 @@
+127.0.0.1 - - [14/Nov/2016:09:49:26 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:49:49 +0530] "GET /CollabPortal/ HTTP/1.1" 200 14544
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:49:50 +0530] "GET /CollabPortal/resources/css/animate-custom.css;jsessionid=A2197DD910577F381497E1936CDC226B HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:49:50 +0530] "GET /CollabPortal/resources/css/style.css;jsessionid=A2197DD910577F381497E1936CDC226B HTTP/1.1" 200 11976
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:49:53 +0530] "GET /CollabPortal/resources/images/wooden.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:50:33 +0530] "GET /CollabPortal/ HTTP/1.1" 200 14544
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:50:34 +0530] "GET /CollabPortal/resources/css/animate-custom.css;jsessionid=BC0DDBB23A45E8780E0A9FCEBB40FB59 HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:50:34 +0530] "GET /CollabPortal/resources/css/style.css;jsessionid=BC0DDBB23A45E8780E0A9FCEBB40FB59 HTTP/1.1" 200 11976
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:50:34 +0530] "GET /CollabPortal/resources/images/wooden.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:50:34 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:50:50 +0530] "GET /CollabPortal/signup HTTP/1.1" 200 15067
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:50:50 +0530] "GET /CollabPortal/resources/css/animate-custom.css HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:09:50:50 +0530] "GET /CollabPortal/resources/css/style.css HTTP/1.1" 304 -
